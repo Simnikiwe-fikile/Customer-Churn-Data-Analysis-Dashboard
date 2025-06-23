@@ -17,5 +17,14 @@ This project presents a detailed data analysis of customer churn using **Excel d
 - **Average Salary**
 - **Average Credit Score**
 ### Charts Included:
-- **Gender vs Churn**:
-Excel file to display a customer churn data analysis dashboard.
+- **Gender vs Churn**: Compares churn behavior between male and female customers.
+- **Geography vs Churn**: Highlights regional differences in churn patterns..
+- **Churn by Age Group**: Shows how customer age relates to churn tendency.
+- **Average Credit Score by Churn**: Compares financial reliability of churned vs retained customers.
+### Navigation & Structure
+- Dashboad is organised into multiple visuals, each exploring a different factor:
+  - Geography
+  - Age
+  - Credit Score
+  - Gender
+- Users can use slicers and filters to interact with the visualisations dynamically, which makes it easier for decision-makers to build churn-reduction strategies.
