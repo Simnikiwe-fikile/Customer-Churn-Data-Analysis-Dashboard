@@ -26,7 +26,7 @@ This project present a detailed data analysis of customer churn using **Excel da
 - How customer age relates to churn tendency?
 - How financial reliability of churned and retained customers differ?
 - Which gender churned more?
-- 
+
 ### Built With
 - Microsoft Excel
 
